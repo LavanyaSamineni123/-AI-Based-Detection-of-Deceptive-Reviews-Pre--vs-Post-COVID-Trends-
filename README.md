@@ -1,8 +1,8 @@
 # -AI-Based-Detection-of-Deceptive-Reviews-Pre--vs-Post-COVID-Trends-
 **#LINK:https://ieeexplore.ieee.org/document/10085689
 **
-Problem Statement**
-
+Problem Statement
+**
 The prevalence of fake reviews in cyberspace has become a major concern for both consumers and businesses
 alike. With the continuous evolution of online reviews, they have become a crucial determinant of business
 success in various sectors such as restaurants, hotels, and e-commerce. A positive review can attract more
@@ -13,6 +13,7 @@ challenging and constantly evolving research area. It is essential to develop ef
 prevent fake reviews to ensure the integrity of online review systems and maintain consumer trust.
 
 **Objectives:**
+
 *Provide evidence that ensemble models are capable of better fake review detection compared to
 conventional approaches, even when dealing with vast datasets.
 
@@ -25,4 +26,4 @@ methods in detecting fake reviews.
 *Employ techniques such as data resampling, feature pruning, and parameter optimization to enhance
 the performance of ensemble models.
 
-LINK TO CHECKOUT CLEAR WORK =:https://ieeexplore.ieee.org/document/10085689
+
